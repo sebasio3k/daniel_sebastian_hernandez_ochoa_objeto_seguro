@@ -15,4 +15,7 @@ Hasta aquí todo bien, pero el proceso de los diagramas no corresponde a la decl
 
 <img width="601" alt="Captura de Pantalla 2021-12-08 a la(s) 19 31 55" src="https://user-images.githubusercontent.com/39862006/145318069-4aad56b0-f522-4c07-a41f-efd379d8e761.png">
 
-Mi duda es si tengo que hacerle caso al diagrama retornando un str o a la declaración de la funcion descifrar_msj, retornando bytes
+Mi duda es: **¿tengo que hacerle caso al diagrama retornando un str o a la declaración de la funcion descifrar_msj, retornando bytes?**
+
+Mi programa ya cumple con la parte 1 del proyecto, quizá mediante la integración de la segunda parte se irán atando cabos y esclareciendo dudas.
+Gracias y quedo a la orden :) 
