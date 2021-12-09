@@ -17,7 +17,7 @@ Hasta aquí todo bien, pero el proceso de los diagramas no corresponde a la decl
 
 Mi duda es: **¿tengo que hacerle caso al diagrama retornando un str o a la declaración de la funcion descifrar_msj, retornando bytes, que de ser así, tendría que codificar de nuevo a bytes el mensaje descifrado cierto?**
 
-2.-De igual manera si me pudieran recordar cómo era la corrección de la descripción de la siguiente función por favor.
+2.-De igual manera si me pudieran recordar cómo es la corrección de la descripción de la siguiente función por favor, debido a que no corresponden los argumentos con la descripción.
 
 <img width="586" alt="Captura de Pantalla 2021-12-08 a la(s) 19 39 22" src="https://user-images.githubusercontent.com/39862006/145318679-60d0ac73-59f3-4974-9851-2a9400fbe29d.png">
 
